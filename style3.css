@@ -54,7 +54,8 @@ footer{
     width: 112%;
     margin-top: 20%;
     bottom: 0;
-    margin: 20% -1% -7% -6%;
+    margin: 22% -1% -8% -6%;
+    border: 1px solid black;
 }
 
 .num{
